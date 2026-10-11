@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T17:52:53.877Z",
+  "fetchedAt": "2026-10-11T18:11:59.061Z",
   "source": "https://github.com/trending?since=daily",
   "repos": [
     {
@@ -9,8 +9,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "starsToday": 25585,
-      "totalStars": 95743,
-      "forks": 21357
+      "totalStars": 96168,
+      "forks": 21451
     },
     {
       "name": "boykopovar/AnyPS5",
@@ -18,8 +18,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "starsToday": 3977,
-      "totalStars": 29171,
-      "forks": 2506
+      "totalStars": 29226,
+      "forks": 2513
     },
     {
       "name": "storytold/artcraft",
@@ -27,8 +27,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "starsToday": 2956,
-      "totalStars": 16912,
-      "forks": 2753
+      "totalStars": 16973,
+      "forks": 2762
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -36,8 +36,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "starsToday": 1083,
-      "totalStars": 49973,
-      "forks": 3169
+      "totalStars": 50001,
+      "forks": 3172
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -45,8 +45,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "starsToday": 872,
-      "totalStars": 51186,
-      "forks": 10296
+      "totalStars": 51210,
+      "forks": 10301
     },
     {
       "name": "lyogavin/airllm",
@@ -54,8 +54,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "starsToday": 541,
-      "totalStars": 36287,
-      "forks": 3803
+      "totalStars": 36297,
+      "forks": 3806
     },
     {
       "name": "chrislgarry/Apollo-11",
@@ -63,8 +63,8 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "starsToday": 496,
-      "totalStars": 74051,
-      "forks": 8090
+      "totalStars": 74066,
+      "forks": 8092
     },
     {
       "name": "pytorch/pytorch",
@@ -72,8 +72,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "starsToday": 314,
-      "totalStars": 104378,
-      "forks": 32074
+      "totalStars": 104384,
+      "forks": 32076
     }
   ]
 }
