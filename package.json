@@ -1,0 +1,16 @@
+{
+  "name": "github-trending-daily",
+  "version": "1.0.0",
+  "description": "Daily snapshot of GitHub's trending repositories (stars gained today), saved as JSON by GitHub Actions.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
