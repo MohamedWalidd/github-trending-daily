@@ -19,6 +19,6 @@ Each repo entry looks like:
 }
 ```
 
-Runs daily at 04:30 UTC (7:30 AM Cairo) via `.github/workflows/daily.yml`. You can also trigger it manually from the **Actions** tab → **Daily GitHub trending snapshot** → **Run workflow**.
+Runs via `.github/workflows/daily.yml`, attempting every 3 hours (GitHub often delays scheduled jobs by hours); the first successful run of each UTC day saves the snapshot and later runs skip. You can also trigger it manually from the **Actions** tab → **Daily GitHub trending snapshot** → **Run workflow**.
 
 Run locally: `npm install && npm run scrape` (Node 20+).
