@@ -1,133 +1,106 @@
 {
-  "date": "2026-10-27",
-  "fetchedAt": "2026-10-27T00:25:43.705Z",
+  "date": "2026-10-28",
+  "fetchedAt": "2026-10-28T05:41:42.861Z",
   "source": "https://github.com/trending?since=daily",
   "repos": [
-    {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "starsToday": 2297,
-      "totalStars": 89207,
-      "forks": 9843
-    },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "starsToday": 2244,
-      "totalStars": 36284,
-      "forks": 1894
+      "starsToday": 2830,
+      "totalStars": 39369,
+      "forks": 2055
     },
     {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "starsToday": 1506,
-      "totalStars": 89181,
-      "forks": 5310
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "starsToday": 1395,
-      "totalStars": 116078,
-      "forks": 22274
+      "starsToday": 1598,
+      "totalStars": 46450,
+      "forks": 5810
     },
     {
       "name": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "starsToday": 1296,
-      "totalStars": 6452,
-      "forks": 788
+      "starsToday": 1465,
+      "totalStars": 7651,
+      "forks": 907
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "starsToday": 1449,
+      "totalStars": 90899,
+      "forks": 5389
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": null,
+      "starsToday": 1395,
+      "totalStars": 9861,
+      "forks": 694
     },
     {
       "name": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "language": "TypeScript",
-      "starsToday": 1173,
-      "totalStars": 2883,
-      "forks": 154
+      "starsToday": 1204,
+      "totalStars": 4258,
+      "forks": 225
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "starsToday": 896,
-      "totalStars": 289832,
-      "forks": 42945
-    },
-    {
-      "name": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "starsToday": 843,
-      "totalStars": 12403,
-      "forks": 1546
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 746,
-      "totalStars": 103565,
-      "forks": 9187
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": null,
-      "starsToday": 638,
-      "totalStars": 224640,
-      "forks": 22472
-    },
-    {
-      "name": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-      "language": "HTML",
-      "starsToday": 251,
-      "totalStars": 26734,
-      "forks": 2960
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "starsToday": 214,
-      "totalStars": 22170,
-      "forks": 1936
+      "starsToday": 1165,
+      "totalStars": 291071,
+      "forks": 43090
     },
     {
       "name": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
-      "starsToday": 188,
-      "totalStars": 38442,
-      "forks": 7455
+      "starsToday": 951,
+      "totalStars": 39585,
+      "forks": 7530
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": null,
+      "starsToday": 902,
+      "totalStars": 5884,
+      "forks": 865
     },
     {
       "name": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "starsToday": 176,
-      "totalStars": 1460,
-      "forks": 184
+      "starsToday": 777,
+      "totalStars": 2644,
+      "forks": 265
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 617,
+      "totalStars": 306632,
+      "forks": 27292
     }
   ]
 }
