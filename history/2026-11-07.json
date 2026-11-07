@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-07",
+  "fetchedAt": "2026-11-07T05:57:41.859Z",
+  "source": "https://github.com/trending?since=daily",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "starsToday": 2548,
+      "totalStars": 64393,
+      "forks": 4172
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 2070,
+      "totalStars": 316906,
+      "forks": 26518
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "starsToday": 2015,
+      "totalStars": 9294,
+      "forks": 737
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsToday": 534,
+      "totalStars": 22936,
+      "forks": 1928
+    },
+    {
+      "name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "starsToday": 315,
+      "totalStars": 12644,
+      "forks": 1643
+    },
+    {
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "starsToday": 306,
+      "totalStars": 93795,
+      "forks": 11512
+    },
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "starsToday": 301,
+      "totalStars": 195074,
+      "forks": 44433
+    },
+    {
+      "name": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "starsToday": 248,
+      "totalStars": 252302,
+      "forks": 51826
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "starsToday": 192,
+      "totalStars": 121513,
+      "forks": 17369
+    },
+    {
+      "name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "starsToday": 169,
+      "totalStars": 50746,
+      "forks": 2615
+    },
+    {
+      "name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "starsToday": 148,
+      "totalStars": 67231,
+      "forks": 10989
+    },
+    {
+      "name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "starsToday": 142,
+      "totalStars": 59053,
+      "forks": 23833
+    },
+    {
+      "name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "starsToday": 135,
+      "totalStars": 101414,
+      "forks": 28914
+    },
+    {
+      "name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "starsToday": 131,
+      "totalStars": 41017,
+      "forks": 2344
+    },
+    {
+      "name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "starsToday": 128,
+      "totalStars": 31472,
+      "forks": 9949
+    },
+    {
+      "name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "starsToday": 128,
+      "totalStars": 52638,
+      "forks": 10590
+    },
+    {
+      "name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "starsToday": 37,
+      "totalStars": 37926,
+      "forks": 3634
+    },
+    {
+      "name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "starsToday": 26,
+      "totalStars": 31330,
+      "forks": 11583
+    }
+  ]
+}
