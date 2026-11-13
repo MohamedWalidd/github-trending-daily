@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-13",
+  "fetchedAt": "2026-11-13T01:49:31.094Z",
+  "source": "https://github.com/trending?since=daily",
+  "repos": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsToday": 1830,
+      "totalStars": 26598,
+      "forks": 2065
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "starsToday": 967,
+      "totalStars": 13949,
+      "forks": 1044
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 816,
+      "totalStars": 116698,
+      "forks": 12211
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "starsToday": 739,
+      "totalStars": 3071,
+      "forks": 200
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "starsToday": 643,
+      "totalStars": 12453,
+      "forks": 978
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "starsToday": 415,
+      "totalStars": 69331,
+      "forks": 10766
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "starsToday": 298,
+      "totalStars": 11643,
+      "forks": 1440
+    },
+    {
+      "name": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "starsToday": 218,
+      "totalStars": 1548,
+      "forks": 140
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "starsToday": 176,
+      "totalStars": 134577,
+      "forks": 25510
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "starsToday": 151,
+      "totalStars": 29838,
+      "forks": 3398
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "starsToday": 63,
+      "totalStars": 96021,
+      "forks": 10760
+    },
+    {
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "starsToday": 62,
+      "totalStars": 123604,
+      "forks": 38057
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "starsToday": 54,
+      "totalStars": 1948,
+      "forks": 392
+    }
+  ]
+}
